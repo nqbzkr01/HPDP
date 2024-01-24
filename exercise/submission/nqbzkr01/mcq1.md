@@ -14,45 +14,16 @@ Don't forget to hit the :star: if you like this repo.
 **Matrix No:AA20BE0161**
 
 ## Answer
-1.B
 
-2.A
+|1-5|6-10|11-15|16-20|
+|---|---|---|---|
+|1.B|6.A|11.A|16.C|
+|2.A|7.A|12.B|17.D|
+|3.A|8.A|13.C|18.D|
+|4.A|9.A|14.D|19.C|
+|5.A|10.B|15.D|20.D|
 
-3.A
 
-4.A
-
-5.A
-
-6.A
-
-7.A
-
-8.A
-
-9.A
-
-10.B
-
-11.A
-
-12.B
-
-13.C
-
-14.D
-
-15.D
-
-16.C
-
-17.D
-
-18.D
-
-19.C
-
-20.D
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
