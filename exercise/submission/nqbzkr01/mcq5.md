@@ -14,56 +14,16 @@ Don't forget to hit the :star: if you like this repo.
 **Matrix No:A20BE0161**
 
 ## Answer
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
+Certainly! Here's the table with numbering:
+
+|1-5|6-10|11-15|16-20|21-25|
+|---|---|---|---|---|
+|1.A |6.A |11.C|16.B|21.C|
+|2.A |7.B |12.A|17.C|22.B|
+|3.A |8.C |13.C|18.D|23.A|
+|4.B |9.A |14.D|19.A|24.B|
+|5.A |10.B|15.A|20.D|25.C|
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/HPDP/issues) for any improvements, suggestions or errors in the content.
